@@ -13,7 +13,7 @@ var router=new VueRouter({
         {path:'/message',component:message},
         {path:'/contacts',component:contacts},
         {path:'/setting',component:setting},
-        {path:'/',component:home},
+        {path:'/',redirect:'/home'},
     ]
 })
 export default router

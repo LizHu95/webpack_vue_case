@@ -24,6 +24,8 @@
     "jquery": "^3.4.1",
     "node-sass": "^4.12.0",
     "open-iconic": "^1.1.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.14.7",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "url-loader": "^2.0.0",
